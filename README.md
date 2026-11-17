@@ -51,7 +51,4 @@ The workflow inside the Jupyter Notebook (Sentiment_Analysis_Model.ipynb) is str
    
  * Open Sentiment_Analysis_Model.ipynb and run all the cells sequentially.
 
-
-
- * 
  * Open Sentiment_Analysis_Model.ipynb and run all the cells sequentially.
